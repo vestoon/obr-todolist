@@ -6,13 +6,11 @@ import {List} from './components/List'
 function App() {
 
   return (
-    <>
-      <div>
+      <div className="App"> 
         <Header></Header>
         <Editor></Editor>
         <List></List>
       </div>
-    </>
   )
 }
 

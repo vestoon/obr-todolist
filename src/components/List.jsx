@@ -4,7 +4,7 @@ export const List = () => {
 
     return (
         <div>
-            Todo List
+            Todo List🌱
             <input></input>
         </div>
     )

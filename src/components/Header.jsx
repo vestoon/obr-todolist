@@ -5,9 +5,7 @@ export const Header = () => {
 
     return (
         <div>
-            오늘은
-            {/* {today.toLocaleDateString()}
-            {today.toLocaleTimeString()} */}
+            오늘은🗓️
             {today.toDateString()}
         </div>
     )
